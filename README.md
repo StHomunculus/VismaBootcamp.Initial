@@ -1,2 +1,2 @@
-# VismaBootcamp.Initial
+# initial repos for visma
 InitTest
